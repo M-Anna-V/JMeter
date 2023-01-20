@@ -18,10 +18,10 @@
   <h3>Number of threads - 50: <a href="https://github.com/M-Anna-V/JMeter/blob/main/JMeter_1_new%20server_50.csv">JMeter_1_new server_50.csv</a></h3>
 </p>
 <p>
-  <h3>Number of threads - 250: <a href="https://github.com/M-Anna-V/JMeter/blob/main/JMeter_1_new%20server_250%20.csv">JMeter_1_new server_250 .csv</a></h3>
+  <h3>Number of threads - 250: <a href="https://github.com/M-Anna-V/JMeter/blob/main/JMeter_1_new%20server_250.csv">JMeter_1_new server_250.csv</a></h3>
 </p>
 <p>
-  <h3>Number of threads - 500: <a href="https://github.com/M-Anna-V/JMeter/blob/main/JMeter_1_new%20server_500%20.csv">JMeter_1_new server_500 .csv</a></h3>
+  <h3>Number of threads - 500: <a href="https://github.com/M-Anna-V/JMeter/blob/main/JMeter_1_new%20server_500.csv">JMeter_1_new server_500.csv</a></h3>
 </p>
 <hr>
 You need to import files into JMeter to display tasks correcty
